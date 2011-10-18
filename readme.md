@@ -1,5 +1,5 @@
 # CodeIgniter Templates for Netbeans
-There are just a few template for CodeIgniter to use in Netbeans. Feel free to fork away and make improvements!
+There are just a few templates for CodeIgniter to use in Netbeans. Feel free to fork away and make improvements!
 
 ## To install
 1. Fire up Netbeans and go to Tools -> Templates
